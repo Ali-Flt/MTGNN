@@ -1,4 +1,4 @@
-from layer import *
+from src.MTGNN.layer import *
 
 
 class gtnet(nn.Module):
